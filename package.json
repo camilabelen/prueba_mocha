@@ -1,0 +1,22 @@
+{
+  "name": "prueba_mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilabelen/prueba_mocha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilabelen/prueba_mocha/issues"
+  },
+  "homepage": "https://github.com/camilabelen/prueba_mocha#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
